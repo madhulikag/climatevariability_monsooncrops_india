@@ -9,3 +9,4 @@ Influence of natural climate variability modes such as ENSO and IOD on five summ
 6. Fig1&S1.R #District maps of average crop yields from 1966-2017 & #District maps of proportion of irrigated to harvested areas for each monsoon crop averaged from 1966-2017.
 7. Fig4&S3-6.R #Spatial differences in yield, production, harvested area, and irrigated area impacts during ENSO and IOD
 8. Fig6.1.R #Maps of overlapping rainfed districts growing rice and alternative grains
+9. Fig5&S7.R #Composite maps of temperature and rainfall
