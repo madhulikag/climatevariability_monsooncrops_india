@@ -10,3 +10,4 @@ Influence of natural climate variability modes such as ENSO and IOD on five summ
 7. Fig4&S3-6.R #Spatial differences in yield, production, harvested area, and irrigated area impacts during ENSO and IOD
 8. Fig6.1.R #Maps of overlapping rainfed districts growing rice and alternative grains
 9. Fig5&S7.R #Composite maps of temperature and rainfall
+10. FigS10.R #Linear mixed effects model - actual yields and actual rainfall and temperature - rainfed yields
