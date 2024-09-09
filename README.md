@@ -8,4 +8,5 @@ Influence of natural climate variability modes such as ENSO and IOD on five summ
 5. Fig6&S4&S11.R # Comparison of the sensitivity of alternative grains to climate variability relative to rice # Metric Anomalies across 5 cereals for Irrigated and Rainfed districts during ENSO and IOD
 6. Fig1&6&S1&11.R # District maps of proportion of irrigated to harvested areas for each monsoon crop averaged from 1966-2017 # District maps of average crop yields from 1966-2017 # Comparison of the sensitivity of alternative grains to climate variability relative to rice (inset maps)
 7. Fig4,tab1&S5-8,tabS2-3 # Spatial differences in yield impacts during El Niño and IOD+ events # Spatial differences in yield impacts during La Niña and IOD- events # Spatial differences in percent yield impacts during ENSO and IOD # Spatial differences in production impacts during ENSO and IOD # Spatial differences in harvested area impacts during ENSO and IOD
-
+8. Fig5&S9.R # Spatial patterns of climate conditions during El Niño and IOD+ events # Spatial patterns of climate conditions during La Niña and IOD- events
+9. 
